@@ -1,0 +1,12 @@
+.page {
+    width: 90%;   
+    text-align: center;   
+
+}
+
+.portada {
+    background-image: url("imagenes/ba1.jpg");
+    position: relative;
+    width: 90%;
+    height: 600px;
+}
